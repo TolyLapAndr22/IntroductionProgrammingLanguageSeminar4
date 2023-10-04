@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\bin\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.exe
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\bin\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.deps.json
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\bin\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.runtimeconfig.json
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\bin\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.dll
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\bin\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.pdb
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\obj\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\obj\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\obj\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\obj\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.AssemblyInfo.cs
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\obj\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\obj\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.dll
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\obj\Debug\net6.0\refint\IntroductionProgrammingLanguageSeminar4.dll
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\obj\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.pdb
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\obj\Debug\net6.0\IntroductionProgrammingLanguageSeminar4.genruntimeconfig.cache
+C:\Users\User\Downloads\анализ данных\Знакомство с языками программирования\семинары\homeWork4\IntroductionProgrammingLanguageSeminar4\obj\Debug\net6.0\ref\IntroductionProgrammingLanguageSeminar4.dll
